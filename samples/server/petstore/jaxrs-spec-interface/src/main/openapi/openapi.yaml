@@ -1328,6 +1328,13 @@ components:
       type: object
       xml:
         name: Order
+    EnumClassDuplicate:
+      default: -efg
+      enum:
+      - _abc
+      - -efg
+      - (xyz)
+      type: string
     AdditionalPropertiesClass:
       properties:
         map_property:

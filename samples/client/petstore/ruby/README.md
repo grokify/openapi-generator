@@ -126,6 +126,7 @@ Class | Method | HTTP request | Description
  - [Petstore::Dog](docs/Dog.md)
  - [Petstore::EnumArrays](docs/EnumArrays.md)
  - [Petstore::EnumClass](docs/EnumClass.md)
+ - [Petstore::EnumClassDuplicate](docs/EnumClassDuplicate.md)
  - [Petstore::EnumTest](docs/EnumTest.md)
  - [Petstore::File](docs/File.md)
  - [Petstore::FileSchemaTestClass](docs/FileSchemaTestClass.md)
