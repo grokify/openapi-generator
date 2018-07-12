@@ -8,11 +8,11 @@
  */
 
 package petstore
-type EnumClass string
+type EnumClassDuplicate string
 
-// List of EnumClass
+// List of EnumClassDuplicate
 const (
-	EnumClassABC EnumClass = "_abc"
-	EnumClassEFG EnumClass = "-efg"
-	EnumClassXYZ EnumClass = "(xyz)"
+	EnumClassDuplicateABC EnumClassDuplicate = "_abc"
+	EnumClassDuplicateEFG EnumClassDuplicate = "-efg"
+	EnumClassDuplicateXYZ EnumClassDuplicate = "(xyz)"
 )

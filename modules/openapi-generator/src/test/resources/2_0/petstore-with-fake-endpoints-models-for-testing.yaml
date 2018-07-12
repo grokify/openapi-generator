@@ -1282,6 +1282,13 @@ definitions:
       - _abc
       - '-efg'
       - (xyz)
+  EnumClassDuplicate:
+    type: string
+    default: '-efg'
+    enum:
+      - _abc
+      - '-efg'
+      - (xyz)
   Enum_Test:
     type: object
     required:
